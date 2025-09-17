@@ -39,3 +39,5 @@ Python 3.x
 Pandas: For data manipulation and cleaning.
 
 Matplotlib & Seaborn: For data visualization (charts, histograms, etc.) 
+
+[Code to the notebook](http://localhost:8888/notebooks/coffee_sales.ipynb)
