@@ -40,4 +40,4 @@ Pandas: For data manipulation and cleaning.
 
 Matplotlib & Seaborn: For data visualization (charts, histograms, etc.) 
 
-[Here is the link to the notebook]([http://localhost:8888/notebooks/coffee_sales.ipynb](https://github.com/mish-mureh/coffee_sales/blob/main/coffee_sales.ipynb))
+[Here is the link to the notebook](https://github.com/mish-mureh/coffee_sales/blob/main/coffee_sales.ipynb)
